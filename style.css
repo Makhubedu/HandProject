@@ -1,11 +1,13 @@
 
 .center{
 	
-	margin: 10px 5% 0 5%;
+	margin-top : 5%;
 	background : white;
+	height : 80%;
 }
 .center > video{
 	border-radius: 12px;
+	width: 80%;
 }
 
 video:hover{
