@@ -3,11 +3,11 @@
 	
 	margin-top : 5%;
 	background : white;
-	height : 1000px;
 }
 .center > video{
 	border-radius: 12px;
-	width: 1000px;
+	height : 720px;
+	width: 540px;
 }
 
 video:hover{
