@@ -6,8 +6,8 @@
 }
 .center > video{
 	border-radius: 12px;
-	height : 720px;
-	width: 540px;
+	height : 250vh;
+	width: 420vw;
 }
 
 video:hover{
